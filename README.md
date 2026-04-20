@@ -1,68 +1,41 @@
-### Hi, I'm Gonçalo 😎
+# Hi — I'm Gonçalo
 
-#### 🤔 Who am I?
+I'm from **Lisbon, Portugal**. I studied **Computer Science & Business Management** and **Big Data Analytics & Engineering** at (MSc thesis on a **blockchain-based distributed storage**). 
 
-- Frontend / full-stack engineer with a **quantitative MSc** and **7+ years** shipping products—heavy on **crypto, DeFi, and financial-grade UIs** where correctness and domain rules actually matter.
-- **Founder:** shipped **ScorePlay**, a **mainnet** prediction market (**2M+** predictions, **$150k+** volume; community [**@scoreplay_xyz**](https://x.com/scoreplay_xyz)).
-- Comfortable owning **React/TypeScript** apps end-to-end: wallet flows, **compliance-style / condition-based UI**, microservice-backed APIs, and **deep browser debugging** when production misbehaves.
-- **Ecosystem:** represented products at **ETHDenver**, **Devcon (Bangkok)**, **EthCC**, **ETHGlobal Istanbul**, and **TOKEN2049 (Singapore)**—demos, dev conversations, partnerships.
-- **Reach me:** [**LinkedIn**](https://www.linkedin.com/in/gon%C3%A7alo-tra%C3%A7a-564a22188/) · [**GitHub**](https://github.com/retraca) · [**X @offandgon**](https://x.com/offandgon)
+**Right now** I'm a **digital nomad**, mostly in **Asia**, still wired to Lisbon for family and old friends. 
 
-#### 🤓 The tech I use
+I build products, talk to users and partners, and spend a lot of time in **React**, **TypeScript**, **Web3** and **AI** tools.
 
-- **Frontend:** React, TypeScript, Next.js, Tailwind, Zustand
-- **Web3:** Solidity, wagmi, viem, ethers, Hardhat, EVM execution & wallet lifecycle
-- **Protocols & patterns:** AMM internals (Uniswap V2), prediction markets, NFT marketplace flows, on-chain bots
-- **Quality:** Vitest, Playwright, disciplined production investigation
-- **Also:** LLM/API integrations, multi-agent pipelines, TypeScript services (WebSockets)
+---
 
-### 💻 Some work you might know me for
+## What I've done 
 
-**ScorePlay — mainnet prediction market**
+### ScorePlay — Founder & CEO · 2023–present
 
-- **Roles:** Founder & CEO; led product, engineering, and GTM alongside investors.
-- **What I did:** Built and operated the consumer app on **mainnet** (React, Zustand, Tailwind, wagmi/viem, Solidity); owned architecture, APIs, code review, and roadmap; ran community and campaigns (**~200k** X followers on the product account); partner-facing integration surfaces.
-- **Traction:** **2M+** predictions · **$150k+** volume · [**@scoreplay_xyz**](https://x.com/scoreplay_xyz)
+Consumer **prediction market on mainnet**: **Solidity**, **wagmi / viem / ethers**, **React**, **Zustand**, **Tailwind**, cloud auth and storage, APIs, architecture, code review, roadmap trade-offs. The app has processed **2M+** on-chain predictions and **$150k+** cumulative volume; I also run instrumentation (e.g. **PostHog**), investor updates, and GTM (campaigns, **X Spaces**, conferences). 
 
-**DeFi protocols — marketplace, bots, protocol depth**
+### PMFKit — AI product / systems · 2025–present
 
-- **Roles:** Collaborator · product engineering (2022–2024).
-- **What I did:** **NFT marketplace** frontend—wallet connection, verification, listings/bids, **condition-heavy UI** (same shape as serious KYC/compliance screens). **On-chain trading bots** (arbitrage & Polymarket-style flows): feeds, execution, latency-sensitive transaction paths. **Uniswap V2** core/peripheral in Hardhat/Solidity as a teaching and explainer base.
-- **Code you can open:** [**amm1**](https://github.com/retraca/amm1) · [**pierluigi_app**](https://github.com/retraca/pierluigi_app) (analysis / Kelly-style tooling, TypeScript)
+**Agent-style pipelines**, **LLM and API** integrations, **structured outputs** (reports across product, distribution, and strategy in about a minute in internal tooling), cloud patterns (auth, object storage), and service boundaries meant to survive real use—not just demos.
 
-**OpenClaw — multi-platform AI assistant**
+### DeFi protocols — Collaborator, product engineering · 2022–2024
 
-- **Roles:** Builder · systems & integrations.
-- **What I did:** Multi-platform assistant with a **WebSocket**-based runtime—clean boundaries, demo-friendly architecture.
-- **Source:** [**retraca/openclaw**](https://github.com/retraca/openclaw)
+**APIs**, **React** frontends, **indexing**, and **developer-facing** flows on **EVM** stacks; **Solidity** integrations and production debugging with distributed teams. Concrete threads that map to public repos: **NFT marketplace**-style frontends (wallets, listings, heavy **condition / state** UI), **on-chain bots** (e.g. Polymarket-style and arbitrage paths, feeds, execution), and a **Uniswap V2**-style **Hardhat / Solidity** base for teaching and samples (**[amm1](https://github.com/retraca/amm1)**). Published **[pierluigi_app](https://github.com/retraca/pierluigi_app)** (TypeScript, Kelly-style analysis around prediction/arbitrage-style problems). I've represented the product in person at events.
 
-**PMFKit — AI product**
+### Accenture — Big Data Engineer · 2022–2024
 
-- **Roles:** Product & engineering.
-- **What I did:** LLM/API integrations, structured outputs, production-minded patterns next to UI work; multi-agent pipelines.
+Consulting in the **telecommunications** sector: **Python / SQL** pipelines, **antenna network telemetry → cloud warehouse**, national-scale data, **~80%** ETL time reduction on the paths I owned, stakeholder reporting in a regulated environment.
 
-**Accenture — data engineering**
+### Earlier
 
-- **Roles:** Big Data Engineer.
-- **What I did:** National-scale telemetry → warehouse pipelines; enterprise stakeholder communication.
+**Celfocus** (cloud & blockchain data, energy-sector network), **Bolina** (mobile), junior dev roles—before the DeFi years.
 
-### 💯 Major accolades & highlights
+---
 
-- Shipped a **mainnet Web3 consumer product** with **millions** of on-chain predictions and **six-figure** notional volume—not a mock demo.
-- **Conference footprint:** repeated presence at **ETHDenver, Devcon, EthCC, ETHGlobal, TOKEN2049** as a founder/builder, not only an attendee.
-- **Open depth:** public [**Uniswap V2 study repo**](https://github.com/retraca/amm1), [**on-chain tooling**](https://github.com/retraca/pierluigi_app), and a [**polished app sample (A-Line)**](https://github.com/retraca/aline) (Next.js, Vitest, Playwright).
-- **Education:** **MSc, Big Data Analytics & Engineering** (FCT NOVA) · thesis on **blockchain-based distributed storage**; **BSc, CS & Business Management** (ISCTE-IUL).
-- **Earlier wins:** **1st** ALTEN Hackathon (2019) · **4×** national rowing champion · **Google Cloud Digital Leader** cert.
+## What I work on
 
-### Personal repo
+- **Frontend:** complex state, wallet and transaction UX, “markets-like” interfaces, design handoff, **Vitest / Playwright**.  
+- **Web3:** **EVM**, **Solidity**, **wagmi / viem / ethers**, indexing, **AMM / DEX** intuition (e.g. Uniswap V2-level), prediction markets, signing and failure modes in production.  
+- **AI:** agents, structured outputs, latency and cost awareness, **TypeScript** and **Python** services, demo-friendly architecture.  
+- **Data:** **SQL**, **BigQuery**, **GCP**-style jobs, analytics-friendly schemas, telemetry pipelines.  
 
-- [**meditations**](https://github.com/retraca/meditations) — personal knowledge vault (law, notes, tooling).
-
-<!--
-ACTION (browser, logged in as retraca): open https://github.com/retraca/retraca
-If GitHub shows “Share to profile” / profile README banner, use it once (accounts from
-before ~July 2020 sometimes need this). View Source on https://github.com/retraca should
-then contain class "profile-readme". No public API exists for this.
-
-Maintainers: nested under meditations/github-profile (parent gitignores). Do not pin this repo.
--->
