@@ -1,41 +1,57 @@
-# Hi — I'm Gonçalo
+### Hi, I'm Gonçalo
 
-I'm from **Lisbon, Portugal**. I studied **Computer Science & Business Management** and **Big Data Analytics & Engineering** at (MSc thesis on a **blockchain-based distributed storage**). 
-
-**Right now** I'm a **digital nomad**, mostly in **Asia**, still wired to Lisbon for family and old friends. 
-
-I build products, talk to users and partners, and spend a lot of time in **React**, **TypeScript**, **Web3** and **AI** tools.
-
----
-
-## What I've done 
-
-### ScorePlay — Founder & CEO · 2023–present
-
-Consumer **prediction market on mainnet**: **Solidity**, **wagmi / viem / ethers**, **React**, **Zustand**, **Tailwind**, cloud auth and storage, APIs, architecture, code review, roadmap trade-offs. The app has processed **2M+** on-chain predictions and **$150k+** cumulative volume; I also run instrumentation (e.g. **PostHog**), investor updates, and GTM (campaigns, **X Spaces**, conferences). 
-
-### PMFKit — AI product / systems · 2025–present
-
-**Agent-style pipelines**, **LLM and API** integrations, **structured outputs** (reports across product, distribution, and strategy in about a minute in internal tooling), cloud patterns (auth, object storage), and service boundaries meant to survive real use—not just demos.
-
-### DeFi protocols — Collaborator, product engineering · 2022–2024
-
-**APIs**, **React** frontends, **indexing**, and **developer-facing** flows on **EVM** stacks; **Solidity** integrations and production debugging with distributed teams. Concrete threads that map to public repos: **NFT marketplace**-style frontends (wallets, listings, heavy **condition / state** UI), **on-chain bots** (e.g. Polymarket-style and arbitrage paths, feeds, execution), and a **Uniswap V2**-style **Hardhat / Solidity** base for teaching and samples (**[amm1](https://github.com/retraca/amm1)**). Published **[pierluigi_app](https://github.com/retraca/pierluigi_app)** (TypeScript, Kelly-style analysis around prediction/arbitrage-style problems). I've represented the product in person at events.
-
-### Accenture — Big Data Engineer · 2022–2024
-
-Consulting in the **telecommunications** sector: **Python / SQL** pipelines, **antenna network telemetry → cloud warehouse**, national-scale data, **~80%** ETL time reduction on the paths I owned, stakeholder reporting in a regulated environment.
-
-### Earlier
-
-**Celfocus** (cloud & blockchain data, energy-sector network), **Bolina** (mobile), junior dev roles—before the DeFi years.
+#### 🤔 Who am I?
+- 🇵🇹 Portuguese engineer and founder, currently based in Asia. CS + Business Management undergrad, MSc in Big Data Analytics & Engineering (thesis on blockchain-based distributed storage).
+- ⚽ I build at the intersection of **sports**, **Web3**, and **AI** — products that need both deep technical work and user traction.
+- 🚀 Founder of **ScorePlay**, a live consumer prediction market on mainnet — 2M+ on-chain predictions.
+- 🤝 I'm open to collaborating on DeFi, sports tech, or AI product work. Reach me at [ggpt98@gmail.com](mailto:ggpt98@gmail.com).
 
 ---
 
-## What I work on
+#### 🤓 The tech I use
 
-- **Frontend:** complex state, wallet and transaction UX, “markets-like” interfaces, design handoff, **Vitest / Playwright**.  
-- **Web3:** **EVM**, **Solidity**, **wagmi / viem / ethers**, indexing, **AMM / DEX** intuition (e.g. Uniswap V2-level), prediction markets, signing and failure modes in production.  
-- **AI:** agents, structured outputs, latency and cost awareness, **TypeScript** and **Python** services, demo-friendly architecture.  
-- **Data:** **SQL**, **BigQuery**, **GCP**-style jobs, analytics-friendly schemas, telemetry pipelines.  
+- TypeScript / JavaScript
+- React / Next.js
+- Solidity
+- Hardhat / Foundry
+- wagmi / viem / ethers.js
+- Zustand / Tailwind CSS
+- The Graph (subgraphs)
+- Python / FastAPI
+- SQL / BigQuery / GCP
+- Rust
+- Dart / Flutter
+- Ruby on Rails
+- Go
+- PostHog
+- zkSync / L2
 
+---
+
+### 💻 Projects
+
+- **ScorePlay** — consumer sports prediction market on EVM mainnet; [contracts](https://github.com/retraca/sports-prediction-contract-octane)
+- **PMFKit** — agent-style LLM pipelines for product, distribution and strategy reports 
+- **pierluigi** — Kelly-criterion sizing for prediction and arbitrage problems · [py](https://github.com/retraca/pierluigi) · [app](https://github.com/retraca/pierluigi_app)
+- **aline-native** — local-first kanban board and calendar in Flutter/Dart · [repo](https://github.com/retraca/aline-native)
+- **limit** — AMM protocol with directional and bidirectional liquidity · [repo](https://github.com/retraca/limit)
+- **amm1 / amm2** — Uniswap V2-style AMM in Hardhat/Solidity · [amm1](https://github.com/retraca/amm1) · [amm2](https://github.com/retraca/amm2)
+- **arbitrage bots** — multi-hop and single-hop on-chain arbitrage execution in TypeScript · private
+
+---
+
+### 💼 Work Experience
+
+**ScorePlay — Founder & CEO · 2023–present**
+Consumer prediction market on mainnet. Solidity, React/TypeScript, wagmi/viem, The Graph, Python, PostHog, architecture, roadmap, GTM, investor relations.
+
+**PMFKit — AI product / systems · 2025–present**
+Agent-style LLM pipelines, structured outputs, TypeScript and Python services, cloud patterns.
+
+**DeFi protocols — Product engineering · 2022–2024**
+EVM frontends (React), Solidity integrations, indexing, on-chain bots, NFT marketplace UX, production debugging with distributed teams. Contributed to DeFi Llama. Represented products at in-person events.
+
+**Accenture — Big Data Engineer · 2022–2024**
+Python/SQL pipelines for telecom antenna telemetry → cloud warehouse (GCP/BigQuery). National-scale data, ~80% ETL time reduction on owned paths, stakeholder reporting in a regulated environment.
+
+**Earlier:** Celfocus (cloud & blockchain data, energy-sector networks), Bolina (mobile), junior dev roles.
