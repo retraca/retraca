@@ -59,6 +59,10 @@
 - [**meditations**](https://github.com/retraca/meditations) — personal knowledge vault (law, notes, tooling).
 
 <!--
-Maintainers: nested repo under meditations/github-profile (parent gitignores this folder).
-Do not pin retraca/retraca on your profile if the banner README stops showing.
+ACTION (browser, logged in as retraca): open https://github.com/retraca/retraca
+If GitHub shows “Share to profile” / profile README banner, use it once (accounts from
+before ~July 2020 sometimes need this). View Source on https://github.com/retraca should
+then contain class "profile-readme". No public API exists for this.
+
+Maintainers: nested under meditations/github-profile (parent gitignores). Do not pin this repo.
 -->
