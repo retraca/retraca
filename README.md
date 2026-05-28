@@ -1,13 +1,13 @@
-### Hi, I'm Gonçalo
+### hey, i'm gon
 
-Portuguese engineer and founder based in Asia. CS + Business Management, MSc Big Data Analytics & Engineering (thesis on blockchain-based distributed storage).
+i like building things and living in places i don't speak the language, yet.
 
-Working on:
+- 🎯 **[ScorePlay](https://scoreplay.xyz)** — on-chain sports prediction market, 2M+ predictions
+- 🥊 **[MuayThang](https://muaythang.com)** — PWA for Muay Thai fighters to find camps
+- 🤖 **[PMFKit](https://pmfkit.com)** — agent-style LLM pipelines for product & strategy reports
+- 🎬 **stealth** — AI-generated Muay Thai legends storytelling channel
+- 🎂 **prbns** — birthday widget app for iOS & Android
+- ⚽ **[openfootmanager](https://github.com/openfootmanager/openfootmanager)** — open source football manager game (Rust)
+- 📋 **aline-native** — local-first kanban + calendar (Flutter)
 
-**ScorePlay.xyz** — founder; consumer prediction market on EVM mainnet, **2M+ on-chain predictions** · [contracts](https://github.com/retraca/sports-prediction-contract-octane)
-
-**PMFKit** — agent-style LLM pipelines for product, distribution, and strategy reports.
-
-**Mezzala Partners** — boutique advisory for Portuguese professional football.
-
-Open to collaborating on DeFi, sports tech, and AI products. [ggpt98@gmail.com](mailto:ggpt98@gmail.com)
+📫 [ggpt98@gmail.com](mailto:ggpt98@gmail.com)
