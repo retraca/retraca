@@ -1,6 +1,6 @@
 ### hey, i'm gon
 
-i like building things and living in places i don't speak the language, yet.
+i build public products across crypto, product, and tooling, usually from wherever the work is moving fastest.
 
 - 🎯 **[ScorePlay](https://scoreplay.xyz)** — on-chain sports prediction market, 2M+ predictions
 - 🥊 **[MuayThang](https://muaythang.com)** — PWA for Muay Thai fighters to find camps
