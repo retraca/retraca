@@ -1,6 +1,6 @@
 ### hey, i'm gon
 
-i build public products across crypto, product, and tooling, usually from wherever the work is moving fastest.
+i build public crypto products, tooling, and interfaces people actually use.
 
 - 🎯 **[ScorePlay](https://scoreplay.xyz)** — on-chain sports prediction market, 2M+ predictions
 - 🥊 **[MuayThang](https://muaythang.com)** — PWA for Muay Thai fighters to find camps
